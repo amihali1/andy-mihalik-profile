@@ -2,7 +2,7 @@
   "name": "andy-mihalik-profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amihali1.github.io/andy-mihalik-profile/public/index.html",
+  "homepage": "http://amihali1.github.io/andy-mihalik-profile",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
