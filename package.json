@@ -7,7 +7,7 @@
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4"
   },
-  "homepage": "https://amihali1.github.io/andy-mihalik-profile/public/index.html",
+  "homepage": "https://amihali1.github.io/andy-mihalik-profile",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
